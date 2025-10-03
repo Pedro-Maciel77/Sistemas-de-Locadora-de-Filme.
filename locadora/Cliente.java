@@ -6,7 +6,7 @@ public class Cliente {
 
     public Cliente(String nome) {
         if (nome == null || nome.trim().isEmpty()) {
-            throw new IllegalArgumentException("Nome não pode ser vazio");
+            throw new IllegalArgumentException("Nome não deve ser vazio");
         }
         this.nome = nome;
     }
