@@ -31,7 +31,7 @@ public class Principal {
         Cliente c1 = new Cliente("Danilo Farias");
         Conta conta1 = new Conta(1, c1);
 
-        Cliente c2 = new Cliente("Joao Silva");
+        Cliente c2 = new Cliente("Pedro Oliveira");
         Conta conta2 = new Conta(2, c2);
 
         Cliente c3 = new Cliente("Maria Santos");
