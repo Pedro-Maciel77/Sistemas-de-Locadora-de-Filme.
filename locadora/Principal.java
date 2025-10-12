@@ -34,7 +34,7 @@ public class Principal {
         Cliente c2 = new Cliente("Pedro Oliveira");
         Conta conta2 = new Conta(2, c2);
 
-        Cliente c3 = new Cliente("Maria Santos");
+        Cliente c3 = new Cliente("Eduarda Santos");
         Conta conta3 = new Conta(3, c3);
 
         System.out.println(" REALIZANDO LOCAÇÕES...\n");
